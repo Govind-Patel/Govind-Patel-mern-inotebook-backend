@@ -1,5 +1,0 @@
-1. git init
-2. npm i express
-3. npm i mongoose
-4. thundser use as postman
-4. npm i -D nodemon
